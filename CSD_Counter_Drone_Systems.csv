@@ -1,0 +1,236 @@
+MANUFACTURER,PRODUCT,COUNTRY,FR,RADAR,EO,IR,ACUST,ALTRI,SPOOFING,RF_Jamming,GNSS_Jamming,NET,LASER,ALTRO,GROUND_BASED,UAV,ALTRO,SOURCE
+Aaronia AG,RF Drone,Germany,RF,,,,,,,,,,,,Ground-based,,,Link
+Accipter,NM1-8A Drone Radar,Canada,,Radar,,,,,,,,,,,Ground-based,,,Link
+Accipter,NM1-KHSxV Security,Canada,,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+Advanced Protection Sys.,ctrl+sky,Poland,RF,Radar,EO,IR,Acoustic,,,,,,,,Ground-based,,,Link
+Advanced Radar Tec.,Drone Sentinel,Spain,,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+Airbus DS Elt.,Xpeller,Germany,,Radar,EO,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Airbus Group SE,Counter UAV,France,,Radar,,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Airspace Systems,Airspace,USA,,,,,,,,,,Net,,,,UAV,,Link
+Alion Science Tec.,,USA,,,,,,,Spoofing,,,,,,Ground-based,,,
+Allen-Vanguard,ANCILE,Canada,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+ALX Systems,Sentinel,Belgium,,,EO,IR,,,,,,,,,,UAV,,Link
+ALX Systems,Spartiath,Belgium,,Radar,,,,,,,,,,,Ground-based,UAV,,Link
+AMTEC Less,Skynet,USA,,,,,,,,,,,,Net Shotgun Shells,,,Handheld,Link
+Lethal Systems,,,,,,,,,,,,,,,,,,
+ApolloShield,CyberBox,Israel,RF,,,,,,,,,,,,Ground-based,,,Link
+ArtSYS360,RS500,Israel,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Ascent Vision,CM202U,USA,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Aselsan Corporation,IHASAVAR,Turkey,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Aselsan Corporation,IHTAR,Turkey,RF,Radar,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Aveillant,Gamekeeper 16U,United Kingdom,,Radar,,,,,,,,,,,Ground-based,,,Link
+Babcock,LDEW-CD,USA,,Radar,EO,IR,,,,,,,,Laser  Gatling Gun,Ground-based,,,Link
+BATS,Drone Guard,Belgium,,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Battelle,Drone Defender (handheld),USA,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Battelle,Drone Defender (land-based unit),USA,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Black Sage/IEC Infrared,UAVX,USA,,Radar,EO,IR,,,,RF Jamming,,,,,Ground-based,,,Link
+Blighter/Chess Dynamics,AUDS Anti-UAV Defence System,United Kingdom,,Radar,EO,IR,,,,RF Jamming,,,,,Ground-based,,,Link
+Blind Tiger,Wireless Intrusion Detection and Defeat System,USA,RF,,,,,,,,,,,Managed Access,Ground-based,,,Link
+Boeing,Laser Avenger,USA,,Radar,,,,,,,,,Laser,,Ground-based,,,Link
+Boeing/General Dynamics,MEHEL 2.0,USA,,,,,,,,,,,Laser,,Ground-based,,,Link
+Broadfield Security Serv.,Drone Blocker,Netherlands,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Broadfield Security Serv.,UAS Detection and Verification System,Netherlands,,Radar,EO,IR,Acoustic,,,,,,,,Ground-based,,,Link
+BYLBOS/Roboost,SPID,France,RF,,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+CACI,SkyTracker,USA,RF,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+CellAntenna,D3T,USA,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+CerbAir,CerbAir Fixed,France,RF,,EO,IR,,,,RF Jamming,,Net,,,Ground-based,,,Link
+CerbAir,CerbAir Mobile,France,RF,,EO,IR,,,,RF Jamming,,Net,,,Ground-based,,,Link
+Chenega Europe,dronecollider,Ireland,,,,,,,,,,,,Sacrificial collision drone,,UAV,,Link
+Chenega Europe,dronesnarer,Ireland,,,,,,,,,,Net,,,,,Handheld,Link
+Chenega Europe,dronesoaker,Ireland,,,,,,,,,,,,Water projector,,,Handheld,Link
+Chenega Europe,dronetaker,Ireland,,,,,,,Spoofing,,,,,,,UAV,,Link
+Chenega Europe,dronetracker,Ireland,,,,,Acoustic,Motion Detection,,,,,,,Ground-based,,,Link
+Chenega Europe,dronevigil Array,Ireland,,Radar,,,,,,,,,,,Ground-based,,,Link
+Chenega Europe,dronevigil Defender,Ireland,,,,,,,,RF Jamming,,,,,,,Handheld,Link
+Chenega Europe,dronevigil Field Mobile,Ireland,,Radar,,,,,,,,,,,Ground-based,,,Link
+Chenega Europe,dronevigil Holographic,Ireland,,Radar,,,,,,,,,,,Ground-based,,,Link
+Cintel,N/A,USA,,,,,,,Spoofing,,,,,,,UAV,,Link
+CITADEL,DFU3000,USA,RF,,,,,,Spoofing,,,,,,Ground-based,,Handheld,Link
+Cobham Antenna Systems,Directional Flat Panel Antenna,USA,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Cobham Antenna Systems,High Power Ultra-Wideband Directional Antenna,USA,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Cobham Antenna Systems,Wideband Omni-Directional,USA,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Controp,SPEED-BIRD,Israel,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Controp,Tornado,Israel,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Convexum,,Israel,RF,,,,,,,,,,,,Ground-based,,,Link
+CRFS,RFeye,United Kingdom,RF,,,,,,,,,,,,Ground-based,,,Link
+CTS,Drone Jammer,China,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+D-Fend Solutions,N/A,Israel,RF,,,,,,Spoofing,RF Jamming,,,,,Ground-based,,,Link
+DeDrone Inc.,DroneTracker,USA,,,EO,IR,Acoustic,wifi,,,,,,,Ground-based,,,Link
+Delft Dynamics,DroneCatcher,Netherlands,,,,,,,,,,Net,,,,UAV,,Link
+Department 13 International,MESMER,USA,RF,,,,,,Spoofing,,,,,,Ground-based,,,Link
+DeTect Inc,DroneWatcherAPP,United Kingdom,,,,,,Mobile App,,,,,,,,,Handheld,Link
+DeTect Inc,DroneWatcherRF,United Kingdom,RF,,,,,,,,,,,,Ground-based,,,Link
+DeTect Inc,HARRIER Drone Surveillance Radar,United Kingdom,,Radar,,,,,,,,,,,Ground-based,,,Link
+Deutsche Telekom,Magenta,Germany,RF,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Diehl Defence,HPEMcounterUAS,Germany,,,,,,,,,,,,Electromagnetic pulse,Ground-based,,,Link
+Digitech Info Technology,JAM-1000,China,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Digitech Info Technology,JAM-2000,China,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Digitech Info Technology,JAM-3000,China,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+DJI,AeroScope,China,,,,,,Electronic Identification,,,,,,,Ground-based,,,Link
+Drone Defence,Dynopis E1000MP,United Kingdom,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Drone Defence,NetGun X1,United Kingdom,,,,,,,,,,Net,,,,,Handheld,Link
+Drone Defence,SkyFence,United Kingdom,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Drone Go Home,,USA,RF,,,,,,,,,,,,Ground-based,,,Link
+Drone Hunter,,Germany,,Radar,,,,,,,,,,,Ground-based,,,Link
+Drone Labs,Drone Detector,USA,RF,,,,,,,,,,,,Ground-based,,,Link
+Drone Security Defence,,,,,,,,Unspecified,,,,,,Unspecified,Ground-based,,,Link
+Dronefence,,Germany,RF,Radar,EO,IR,Acoustic,,Spoofing,,,,,,Ground-based,,,Link
+DroneShield,DroneBeam,Australia,,,,,,Spotlight,,,,,,,Ground-based,,,Link
+DroneShield,DroneHeat,Australia,,,,IR,,,,,,,,,Ground-based,,,Link
+DroneShield,DroneOpt,Australia,,,EO,,,,,,,,,,Ground-based,,,Link
+DroneShield,DroneSentinel,Australia,RF,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+DroneShield,DroneSentry,Australia,RF,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+DroneShield,Faralert Sensor,Australia,RF,,,,,,,,,,,,Ground-based,,,Link
+DroneShield,RadarOne,Australia,,Radar,,,,,,,,,,,Ground-based,,,Link
+DroneShield,RfOne,Australia,RF,,,,Acoustic,,,,,,,,Ground-based,,,Link
+DroneShield,WideAlert Sensor,Australia,,,,,,,,,,,,,Ground-based,,,Link
+DroneShield,DroneGun MKII,Australia,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+DroneShield,DroneGun Tactical,Australia,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+DroneShield,RadarZero,Australia,,Radar,,,,,,,,,,,Ground-based,,,Link
+DRS Moog Mobile Low, Slow Unmanned Aerial Vehicle Integrated Defense Systems,USA,,Radar,,,,,,,,,,Machine Gun,Ground-based,,,Link
+DRS Moog,SABRE,USA,,Radar,,,,,,,,,,Machine Gun,Ground-based,,,Link
+Dynetics,GroundAware,USA,,Radar,,,,,,,,,,,Ground-based,,,Link
+ECA Group,EC-180,France,,,,,,Transponder,,,,,,,,UAV,,Link
+Elbit,ReDrone,Israel,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Elbit,SupervisIR,Israel,,,,IR,,,,,,,,,Ground-based,,,Link
+ELT Roma,ADRIAN,Italy,RF,,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+ELTA (Israel Aerospace Industries),Drone Guard,Israel,,Radar,EO,,,,,,GNSS Jamming,,,,Ground-based,,,Link
+esc Aerospace,CUAS,Germany,RF,Radar,EO,,,,,RF Jamming,GNSS Jamming,,, Electromagnetical Pulse,Ground-based,,,Link
+Exponent,Drone Hunter,,,,EO,IR,,,,,,,,,,UAV,,Link
+Fortem Technologies,Drone Hunter,USA,,,,,,,,,,Net,,,,UAV,,Link
+Fovea Aero,CCOD,USA,,,,,,,,,,Net,,,,UAV,,Link
+Fuyuda,Portable Counter Drone Defence System,China,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+General Atomics,Fencepost,USA,,,,,Acoustic,,,,,,,,Ground-based,,,Link
+GEW Technologies,SkyScan 2,South Africa,RF,,,,,,,,,,,,Ground-based,,,Link
+Groupe ADP/DSNA Services,Hologarde,France,RF,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+Groupe Assman,MTX-8,France,,,,,,,,,,,,,,UAV,,Link
+Gryphon Sensors,Skylight,USA,RF,Radar,EO,IR,,,,,,Net,,,Ground-based,,,Link
+Gryphon Sensors,Skylight Mobile,USA,RF,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+Harp Arge,Drone Savar,Turkey,,,,,,,,RF Jamming,,,,,,,Handheld,Link
+HGH Infared Systems,Spynel M,France,,,,IR,,,,,,,,,Ground-based,,,Link
+HiGH + MiGHTY,SKYNET,Taiwan,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Hikvision,Defender Series UAV-D04JA,China,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+HP Marketing and Consulting,HP 3962 H,Germany,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+HP Marketing and Consulting,HP 47,Germany,RF,Radar,EO,IR,Acoustic,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+IACIT,DRONEBlocker 0100,Brazil,RF,Radar,EO,IR,Acoustic,,,RF Jamming,,,,,Ground-based,,,Link
+IACIT,DRONEBlocker 0200,Brazil,RF,Radar,EO,IR,Acoustic,,,RF Jamming,,,,,Ground-based,,,Link
+IMI Systems,Red Sky 2 Drone Defender System,Israel,,Radar,,,,,,RF Jamming,,,,,Ground-based,,,Link
+IXI Technology,Drone Killer,USA,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+JCPX Development/DSNA Services/Aveillant,UWAS,Monaco,,Radar,EO,IR,,,,,,,,"""Counter measures""",Ground-based,,,Link
+Jiun An Technology,Raysun MD1,Taiwan,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Kalashnikov/ZALA Aero Group,REX 1,Russia,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+KB Radar Design Bureau,Groza-R,Belarus,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+KB Radar Design Bureau,Groza-S,Belarus,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+KB Radar Design Bureau,Groza-Z,Belarus,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Kelvin Hughes,SharpEye,United Kingdom,,Radar,,,,,,,,,,,Ground-based,,,Link
+Kirintec,Recurve,United Kingdom,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Kirintec,Sky Net Longbow,United Kingdom,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+L3 Technologies,Drone Guardian,USA,RF,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Liteye,ADIS,USA,,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+Liteye/Orbital ATK,T-REX,USA,,Radar,EO,IR,,,,RF Jamming,,,,kinetic,Ground-based,,,Link
+Lockheed Martin,ADAM,USA,,,EO,IR,,,,,,,Laser,,Ground-based,,,Link
+Lockheed Martin,ATHENA,USA,,,EO,IR,,,,,,,Laser,,Ground-based,,,Link
+Lockheed Martin,ICARUS,USA,,,EO,IR,Acoustic,,Spoofing,RF Jamming,,,,,Ground-based,,,Link
+LocMas,STUPOR,Russia,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Marduk Technologies,Shark,Estonia,,,EO,,,,,,,,,,Ground-based,,,Link
+MBDA Deutschland,High Energy LaserWeapon System,Germany,,,,,,,,,,,Laser,,Ground-based,,,Link
+MC-CLIC,Anti-UAV Rifle,Monaco,,,,,,,,RF Jamming,,,Laser,,,,Handheld,Link
+Meritis,ADS-2000,Switzerland,,,,,Acoustic,,,,,,,,Ground-based,,,Link
+Meritis,P6,Switzerland,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Meritis,RTX-2000M6,Switzerland,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Meritis,RTX-3000X,Switzerland,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Meritis,RTX-300P2,Switzerland,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Meritis,SC-1000T,Switzerland,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Meritis,SC-1500T,Switzerland,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Meritis,SkyCleaner,Switzerland,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Meritis,SR-9000S,Switzerland,,Radar,,,,,,,,,,,Ground-based,,,Link
+Microflown AVISA,SKYSENTRY,Netherlands,,,,,Acoustic,,,,,,,,Ground-based,,,Link
+Miltronix,Drone Detection Radar,United Kingdom,,Radar,,,,,,,,,,,Ground-based,,,Link
+Mitsubishi Electric Corporation,Drone Deterrence System,Japan,RF,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+MyDefence Communication ApS,EAGLE,Denmark,,Radar,,,,,,,,,,,Ground-based,,,Link
+MyDefence Communication ApS,KNOX system,Denmark,,,,,,Multi-sensor Server Solution,,,,,,,Ground-based,,,Link
+MyDefence Communication ApS,WATCHDOG,Denmark,RF,,,,,,,,,,,,Ground-based,,,Link
+MyDefence Communication ApS,WOLFPACK,Denmark,RF,,,,,,,,,,,,Ground-based,,,Link
+MySky Technoligies,,Australia,,,,,,Unspecified,,,,,,,Ground-based,,,Link
+Nammo,,Norway,,,,,,,,,,,,Programmable ammunition,,,,Link
+NEC,,Japan,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Netline Communications,C-GUARD DRONENET,Israel,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Netline Communications,WOODPECKER LIGHT,Israel,RF,,,,,,,,,,,,Ground-based,,,Link
+NNIIRT,1L121-E,Russia,,Radar,,,,,,,,,,,Ground-based,,,Link
+Northrop Grumman,Drone Restricted Access Using Known EW,USA,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Northrop Grumman,Mobile Application for UAS Identification,USA,,,,,Acoustic,,,,,,,,Ground-based,,,Link
+Northrop Grumman,Venom,USA,,,,,,Laser Designator,,,,,,,Ground-based,,,Link
+OIS-AT,3D Air Surveillance UAV Detection Radar,India,,Radar,,,,,,,,,,,Ground-based,,,Link
+Open Works Engineering,Skywall 100,United Kingdom,,,,,,,,,,Net,,,,,Handheld,Link
+Open Works Enginearing,Skywall 200,United Kingdom,,,,,,,,,,Net,,,,,Handheld,Link
+Open Works Engineering,Skywall 300,United Kingdom,,,,,,,,,,Net,,,Ground-based,,,Link
+Optix,Anti-Drone,Bulgaria,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Orad,DROM,Israel,RF,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Orelia,Drone Detector,France,,,,,Acoustic,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Panasonic,Drone Finder,Japan,,,EO,,Acoustic,,,,,,,,Ground-based,,,Link
+Phantom Technologies,Eagle108 Tactial Drone Jammer,Israel,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Poly Technologies,Silent Hunter,China,,,EO,IR,,,,,,,Laser,,Ground-based,,,Link
+Prime Consulting & Technologies,GROK Jammer,Denmark,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Prime Consulting & Technologies,GROK Mobile Gun,Denmark,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Prime Consulting & Technologies,Mini-range counter-UAV system,Denmark,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Prime Consulting & Technologies,Small-range counter-UAV system,Denmark,,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+QinetiQ,OBSIDIAN,United Kingdom,,Radar,,,,,,,,,,,Ground-based,,,Link
+Quantum Aviation,DroneProtect,United Kingdom,RF,Radar,EO,IR,,,,,,,,,Ground-based,,,Link
+RADA Electronic Industries,Multi-Mission Hemispheric Radars,Israel,,Radar,,,,,,,,,,,Ground-based,,,Link
+RADA Electronic Industries,RPS-42,Israel,,Radar,,,,,,,,,,,Ground-based,,,Link
+Radio Hill Technologies,Dronebuster,USA,,,,,,,,,,,,,,,Handheld,Link
+Radio Hill Technologies,Dronebuster LE,USA,,,,,,,,,,,,,,,Handheld,Link
+Rafael Advanced Defense Systems,Drone Dome,Israel,,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,Laser,,Ground-based,,,Link
+Rajant Corp,MANET,USA,,,,,,,,,,,,Swarming,,UAV,,Link
+Raytheon,MRZR,USA,,,EO,IR,,,,,,,Laser,,Ground-based,,,Link
+Repulse,Repulse 24,USA,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Repulse,Repulse 2458E,USA,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Repulse,Repulse 2458H Handheld,USA,,,,,,,,RF Jamming,,,,,,,Handheld,Link
+Repulse,Repulse 360,USA,,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+Rheinmetall AG,HEL Effector Wheel XX,Germany,,Radar,,,,,,,,,Laser,,Ground-based,,,Link
+Rinicom,Sky Patriot,United Kingdom,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Robin Radar Systems,Elvira,Netherlands,,Radar,,,,,,,,,,,Ground-based,,,Link
+Robodub,N/A,USA,,,,,,,,,,,,Kinetic,,UAV,,Link
+Rohde & Schwarz,ARDRONIS,Germany,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Rohde & Schwarz/ ESG/Diehl,Guardion,Germany,RF,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Rostec,Shipovnik-Aero,Russia,RF,,,,,Unknown,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Saab Group,Giraffe 1x,Sweden,,Radar,,,,,,,,,,,Ground-based,,,Link
+SC Scientific and Technical Center of Electronic Warfare,Repellent-1,Russia,RF,,,,,,,RF Jamming,,,,,Ground-based,,,Link
+SCG/Van Cleve & Associates,DroneRANGER,Switzerland,,Radar,,,,,,RF Jamming,,Net,,,Ground-based,,,Link
+SCI Technology,AeroGuard,USA,,,,,,,,,,Net,,,,UAV,,Link
+Search Systems,Sparrowhawk,United Kingdom,,,,,,,,,,,,,,UAV,,Link
+Selex,Falcon Shield,United Kingdom,,Radar,EO,IR,,,,,,,,RF Management,Ground-based,,,Link
+Sensofusion,Airfence,Finland,RF,,,,,,,,,,,,Ground-based,,,Link
+SESP,Drone Defeater,United Kingdom,RF,,EO,IR,,,,RF Jamming,,,,,Ground-based,,,Link
+Sierra Nevada Corporation,SkyCAP,USA,,,,,,,,RF Jamming,,,,,Ground-based,,Handheld,Link
+SkySafe,Skysafe,USA,RF,,,,,,Spoofing,,,,,,,,Handheld,Link
+Skysec,Sentinel Catch,Switzerland,,,,,,,,,,Net,,,,UAV,,Link
+Skysec,Sentinel Catch&Carry,Switzerland,,,,,,,,,,Net,,,,UAV,,Link
+Sohgo Security Services,,Japan,,,,,Acoustic,,,,,,,,Ground-based,,,Link
+SpotterRF,A-Series Counter-Drone Radar,USA,,Radar,,,,,,,,,,,Ground-based,,,Link
+Squarehead,Discovair,Norway,,,,,Acoustic,,,,,,,,Ground-based,,,Link
+SRC,Silent Archer,USA,,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,Kinetic,Ground-based,,,Link
+ST Kinetics,C-UAS Grenade,Singapore,,,,,,,,,,,,Projectile,,,,Link
+SteelRock Technologies,Fixed Perimeter System,United Kingdom,RF,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+SteelRock Technologies,NightFighter,United Kingdom,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+TCI,Blackbird,USA,RF,,,,,,,,,,,,Ground-based,,,Link
+Telaforce,,USA,RF,,,,,,,,,,,,Ground-based,,,Link
+TeleRadio Engineering,SkyDroner 1000,Singapore,,,EO,,,Other,,,,,,,Ground-based,,,Link
+TeleRadio Engineering,SkyDroner 500,Singapore,,,EO,,,Other,,,,,,,Ground-based,,,Link
+Terra Hexen,Droneblocker  System-Omnidirectional,Poland,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Terra Hexen,SAFESKY,Poland,,Radar,EO,IR,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Unidirectional,,,,,,,,,,,,,,,,,,
+Terra Hexen,Neutralizer,Poland,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+Thales,Gecko,France,,,,IR,,,,,,,,,Ground-based,,,Link
+Thales,Margot 8000,France,,,EO,IR,,,,,,,,,Ground-based,,,Link
+Thales,Squire,France,,Radar,,,,,,,,,,,Ground-based,,,Link
+Thales-Raytheon Systems,“AN/MPQ-64F1 Improved Sentinel”,France,,Radar,,,,,,,,,,,Ground-based,,,Link
+Theiss UAV Solutions,Excipio Aerial Netting System,USA,,,,,,,,,,Net,,,,UAV,,Link
+TRD Consultancy,Orion-7 MP Drone Slayer,Singapore,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+TRD Consultancy,Orion-D,Singapore,RF,,,,,,,,,,,,Ground-based,,,Link
+TRD Consultancy,Orion-H Drone Slayer,Singapore,,,,,,,,RF Jamming,GNSS Jamming,,,,,,Handheld,Link
+TrustComs,DroneBlocker,France,,,,,,TBA,,,,,,TBA,Ground-based,,,Link
+Vector Solution,,USA,RF,,,,,,Spoofing,,,,,,Ground-based,,,Link
+Veth Systems,Drone Hunter,Hungary,,,,,,,,RF Jamming,GNSS Jamming,,,,Ground-based,,,Link
+Whitefox,Dronefox Fortify,USA,RF,,,,,,Spoofing,,,,,,Ground-based,,,Link
+Whitefox,Dronefox Tactical,USA,RF,,,,,,Spoofing,,,,,,Ground-based,,,Link
